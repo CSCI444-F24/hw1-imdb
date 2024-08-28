@@ -10,4 +10,4 @@ The `_labels.csv` files have two columns:
  - `sentiment`: 1 for positive and 0 for negative.
 
 ### Output format
-A complete submission for this assignment will include a `test_labels.csv` that is filled in with both columns. The `sentiment` column should only contain the integers 0 and 1.
+A complete submission for this assignment will include a file called `test_predictions.csv` that is formatted like `*_labels.csv`. The `sentiment` column should only contain the integers 0 for negative and 1 for positive.
